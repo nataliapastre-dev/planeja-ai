@@ -1,8 +1,6 @@
 # 💰 PlanejaAI — Planejador Financeiro Inteligente
 
-<p align="center">
-  <img src="assets/planeja_ai_banner.png" alt="PlanejaAI - Interface" width="750">
-</p>
+
 
 > **PlanejaAI** é uma aplicação web de planejamento financeiro pessoal criada para auxiliar na organização de orçamento mensal, cálculo de limites de gastos e projeção de metas financeiras através de análises inteligentes.
 
@@ -20,9 +18,8 @@
 ## 📱 Demonstração
 
 <p align="center">
-  <img src="assets/planeja_ai_banner.png" alt="PlanejaAI Interface" width="700">
+  <img src="https://i.postimg.cc/ZqKPG9VD/Code-Generated-Image.png" alt="PlanejaAI Interface" width="700">
 </p>
-
 ---
 
 ## 📋 Como Utilizar
