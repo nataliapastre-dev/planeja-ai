@@ -1,59 +1,55 @@
 # 💰 PlanejaAI — Planejador Financeiro Inteligente
 
-![PlanejaAI Banner](assets/planeja_ai_banner.png)
+<p align="center">
+  <img src="assets/planeja_ai_banner.png" alt="PlanejaAI - Interface" width="750">
+</p>
 
-> **PlanejaAI** é uma aplicação inteligente desenvolvida para ajudar você a organizar suas finanças pessoais, calcular seu orçamento mensal e fornecer análises e recomendações personalizadas com base nos seus objetivos financeiros.
+> **PlanejaAI** é uma aplicação web de planejamento financeiro pessoal criada para auxiliar na organização de orçamento mensal, cálculo de limites de gastos e projeção de metas financeiras através de análises inteligentes.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- **Cálculo da Renda e Despesas**: Analise o impacto das suas despesas em relação à sua renda mensal.
-- **Definição de Objetivos**: Informe suas metas financeiras (ex: reserva de emergência, viagens, investimentos) para receber insights direcionados.
-- **Análise Inteligente**: Geração de relatórios e recomendações para otimização dos seus recursos.
-- **Interface Moderna e Responsiva**: Design dark sofisticado, focado em facilidade de uso e clareza das informações.
+- **Renda e Despesas**: Cadastro simplificado de receitas e custos recorrentes.
+- **Metas e Objetivos**: Definição de metas de curto, médio e longo prazo.
+- **Análise Inteligente**: Recomendações personalizadas para otimização de gastos e investimentos.
+- **Design Dark**: Interface intuitiva, limpa e responsiva.
 
 ---
 
-## 🖥️ Demonstração da Interface
+## 📱 Demonstração
 
 <p align="center">
-  <img src="assets/planeja_ai_banner.png" alt="PlanejaAI Interface" width="750">
+  <img src="assets/planeja_ai_banner.png" alt="PlanejaAI Interface" width="700">
 </p>
 
 ---
 
-## 📋 Como Usar
+## 📋 Como Utilizar
 
-1. Insira o valor da sua **Renda mensal**.
-2. Informe o valor total das suas **Despesas mensais**.
-3. Defina qual é o seu **Objetivo financeiro**.
-4. Clique no botão **Gerar análise** para visualizar o relatório consolidado.
+1. Informe o valor da sua **Renda mensal**.
+2. Insira o total das suas **Despesas mensais**.
+3. Defina seu **Objetivo financeiro** (ex.: *Criar reserva de emergência*, *Viagem*, *Investimentos*).
+4. Clique no botão **Gerar análise** para visualizar as recomendações do sistema.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Backend / Inteligência**: Python / API de Análise Financeira
-- **Design & Layout**: CSS Grid, Flexbox e componentes estilizados
+- **Estilização**: CSS Custom Properties, Flexbox e CSS Grid
+- **Backend / Análise**: Python / API de Inteligência Financeira
 
 ---
 
-## 🔧 Como Executar o Projeto Localmente
-
-### Pré-requisitos
-- [Git](https://git-scm.com)
-- Um navegador web moderno
-
-### Passo a passo
+## 🔧 Como Executar Localmente
 
 ```bash
-# 1. Clone o repositório
-git clone [https://github.com/nataliapastre/planeja-ai.git](https://github.com/nataliapastre/planeja-ai.git)
+# Clone este repositório
+$ git clone [https://github.com/nataliapastre/planeja-ai.git](https://github.com/nataliapastre/planeja-ai.git)
 
-# 2. Acesse a pasta do projeto
-cd planeja-ai
+# Acesse a pasta do projeto
+$ cd planeja-ai
 
-# 3. Abra o arquivo index.html no seu navegador
-open index.html
+# Abra o arquivo index.html no navegador
+$ open index.html
