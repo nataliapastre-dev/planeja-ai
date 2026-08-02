@@ -1,46 +1,59 @@
-# 🚀 Planeja AI
+# 💰 PlanejaAI — Planejador Financeiro Inteligente
 
-O **Planeja AI** é uma aplicação web moderna que funciona como um planejador financeiro inteligente. O objetivo principal do projeto é ajudar os usuários a organizarem suas finanças de forma simples, intuitiva e eficiente, unindo um design fluido com alta performance.
+![PlanejaAI Banner](assets/planeja_ai_banner.png)
 
-🔗 **[Acesse o Planeja AI online](https://nataliapastre-dev.github.io/planeja-ai/)**
+> **PlanejaAI** é uma aplicação inteligente desenvolvida para ajudar você a organizar suas finanças pessoais, calcular seu orçamento mensal e fornecer análises e recomendações personalizadas com base nos seus objetivos financeiros.
 
 ---
 
-## ✨ Funcionalidades
+## 🚀 Funcionalidades
 
-*   **Interface Moderna & Responsiva:** Adaptável a qualquer tamanho de tela (desktop, tablets e smartphones).
-*   **Navegação Fluida:** Transições de páginas dinâmicas utilizando *React Router*.
-*   **Áreas Distintas:** Página inicial (Home) institucional e uma área dedicada para a aplicação (`AppPage`).
-*   **Alta Performance:** Construído sobre o Vite para um carregamento instantâneo.
-*   **Deploy Automatizado:** Integração contínua com GitHub Pages.
-*   **Pronto para Expansão:** Estrutura de código limpa e modular, preparada para receber novas ferramentas financeiras.
+- **Cálculo da Renda e Despesas**: Analise o impacto das suas despesas em relação à sua renda mensal.
+- **Definição de Objetivos**: Informe suas metas financeiras (ex: reserva de emergência, viagens, investimentos) para receber insights direcionados.
+- **Análise Inteligente**: Geração de relatórios e recomendações para otimização dos seus recursos.
+- **Interface Moderna e Responsiva**: Design dark sofisticado, focado em facilidade de uso e clareza das informações.
+
+---
+
+## 🖥️ Demonstração da Interface
+
+<p align="center">
+  <img src="assets/planeja_ai_banner.png" alt="PlanejaAI Interface" width="750">
+</p>
+
+---
+
+## 📋 Como Usar
+
+1. Insira o valor da sua **Renda mensal**.
+2. Informe o valor total das suas **Despesas mensais**.
+3. Defina qual é o seu **Objetivo financeiro**.
+4. Clique no botão **Gerar análise** para visualizar o relatório consolidado.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-O projeto foi construído utilizando as melhores práticas do ecossistema front-end atual:
-
-| Tecnologia | Descrição |
-| :--- | :--- |
-| **⚛️ React** | Biblioteca principal para construção da interface baseada em componentes. |
-| **⚡ Vite** | Ferramenta de build ultra-rápida para um desenvolvimento ágil. |
-| **🌐 React Router DOM** | Gerenciamento de rotas e navegação interna da aplicação. |
-| **🎨 Tailwind CSS** | Framework CSS utilitário para estilização rápida, moderna e responsiva. |
-| **📦 gh-pages** | Pacote para automação do deploy no GitHub Pages. |
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Backend / Inteligência**: Python / API de Análise Financeira
+- **Design & Layout**: CSS Grid, Flexbox e componentes estilizados
 
 ---
 
-## 📁 Estrutura do Projeto
+## 🔧 Como Executar o Projeto Localmente
 
-A organização dos arquivos segue uma estrutura modular para facilitar a manutenção:
+### Pré-requisitos
+- [Git](https://git-scm.com)
+- Um navegador web moderno
 
-```text
-src/
-├── assets/          # Arquivos estáticos (imagens, ícones, etc.)
-├── pages/           # Páginas principais da aplicação
-│   ├── Home.jsx     # Página inicial / Landing page
-│   └── AppPage.jsx  # Dashboard / Área principal do planejador
-├── App.jsx          # Componente raiz com a configuração de rotas
-├── index.css        # Configurações globais de estilos e Tailwind
-└── main.jsx         # Ponto de entrada do React
+### Passo a passo
+
+```bash
+# 1. Clone o repositório
+git clone [https://github.com/nataliapastre/planeja-ai.git](https://github.com/nataliapastre/planeja-ai.git)
+
+# 2. Acesse a pasta do projeto
+cd planeja-ai
+
+# 3. Abra o arquivo index.html no seu navegador
+open index.html
