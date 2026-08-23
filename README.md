@@ -6,13 +6,25 @@
 
 # 📌 Sobre o Projeto
 
-O **PlanejaAI** é uma aplicação web criada com o objetivo de transformar informações financeiras em uma visão mais clara e estruturada, facilitando a organização do orçamento e o planejamento de objetivos pessoais.
+O **PlanejaAI** é uma aplicação web criada com o objetivo de transformar informações financeiras em uma visão mais clara, organizada e estruturada, facilitando o controle do orçamento e o planejamento de objetivos pessoais.
 
-A aplicação permite que o usuário informe sua renda, despesas e objetivos financeiros para que os dados sejam processados e utilizados na geração de análises e recomendações.
+A ideia do projeto surgiu a partir da minha **experiência profissional na área administrativa**, período em que pude compreender, na prática, a importância do planejamento, da organização e do acompanhamento financeiro para a tomada de decisões.
 
-O projeto combina **desenvolvimento web, lógica de programação, análise de dados e conceitos de planejamento financeiro**, buscando transformar dados inseridos pelo usuário em informações úteis para apoiar sua tomada de decisão.
+Ao longo dessa experiência, também percebi que a necessidade de organização financeira não está presente apenas no ambiente empresarial. No âmbito pessoal, muitas pessoas enfrentam dificuldades para entender sua própria situação financeira, organizar despesas, estabelecer metas e planejar seus próximos passos.
 
----
+Essa percepção despertou a ideia de unir dois conhecimentos que fazem parte da minha trajetória: **experiência administrativa e tecnologia**.
+
+A partir disso, desenvolvi o PlanejaAI como mais do que um projeto acadêmico ou apenas uma aplicação para estudos. A proposta foi criar uma solução com **potencial de utilização em um contexto real**, capaz de transformar informações fornecidas pelo usuário em análises que auxiliem no planejamento financeiro.
+
+Durante o desenvolvimento, busquei colocar em prática conhecimentos adquiridos tanto na minha experiência profissional quanto na minha formação em tecnologia, transformando conceitos teóricos em funcionalidades reais.
+
+O projeto representa, portanto, a união entre:
+
+> **Experiência administrativa + conhecimento de negócio + planejamento financeiro + análise de dados + tecnologia.**
+
+O PlanejaAI também foi pensado com possibilidade de evolução. A partir de novas funcionalidades, persistência de dados, autenticação, dashboards, histórico financeiro e outras melhorias, a aplicação poderá se tornar uma solução ainda mais completa e acessível para diferentes perfis de usuários.
+
+Mais do que desenvolver uma aplicação, o projeto representa a aplicação prática de conhecimentos adquiridos ao longo da minha trajetória, demonstrando como **experiências profissionais anteriores podem ser transformadas em ideias e soluções dentro da tecnologia**.
 
 
 # 📱 Demonstração
