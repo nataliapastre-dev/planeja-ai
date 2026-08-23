@@ -14,6 +14,15 @@ O projeto combina **desenvolvimento web, lógica de programação, análise de d
 
 ---
 
+
+# 📱 Demonstração
+
+<p align="center">
+  <img src="https://i.postimg.cc/ZqKPG9VD/Code-Generated-Image.png" alt="PlanejaAI Interface" width="700">
+</p>
+
+---
+
 # 💡 Motivação
 
 O projeto surgiu a partir da percepção de que muitas pessoas possuem informações sobre sua vida financeira, mas encontram dificuldades para organizar esses dados e transformá-los em um planejamento claro.
@@ -116,13 +125,6 @@ A aplicação possui uma interface moderna e responsiva, desenvolvida com foco e
 
 ---
 
-# 📱 Demonstração
-
-<p align="center">
-  <img src="https://i.postimg.cc/ZqKPG9VD/Code-Generated-Image.png" alt="PlanejaAI Interface" width="700">
-</p>
-
----
 
 # 🧠 Lógica do Projeto
 
