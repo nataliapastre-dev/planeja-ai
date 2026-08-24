@@ -33,6 +33,9 @@ Mais do que desenvolver uma aplicação, o projeto representa a aplicação prá
   <img src="https://i.postimg.cc/ZqKPG9VD/Code-Generated-Image.png" alt="PlanejaAI Interface" width="700">
 </p>
 
+<p align="center">
+  🔗 <strong><a href="https://nataliapastre-dev.github.io/planeja-ai/" target="_blank">Acesse o PlanejaAI</a></strong>
+</p>
 ---
 
 # 💡 Motivação
